@@ -1,0 +1,11 @@
+//
+//  WelcomeWorker.swift
+//  CoffeeShop
+//
+//  Created by Vadim Mukhin on 02.09.2021.
+//  Copyright (c) 2021. All rights reserved.
+//
+
+import Foundation
+
+final class WelcomeWorker: WelcomeWorkingLogic {}
